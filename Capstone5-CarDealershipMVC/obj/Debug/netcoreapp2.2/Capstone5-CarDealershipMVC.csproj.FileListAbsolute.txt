@@ -1,0 +1,100 @@
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\bin\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.deps.json
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\bin\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.runtimeconfig.json
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\bin\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.runtimeconfig.dev.json
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\bin\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.dll
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\bin\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.pdb
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\bin\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.Views.dll
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\bin\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.Views.pdb
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.csprojAssemblyReference.cache
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.csproj.CoreCompileInputs.cache
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.RazorAssemblyInfo.cache
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.RazorAssemblyInfo.cs
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.AssemblyInfoInputs.cache
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.AssemblyInfo.cs
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.TagHelpers.input.cache
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.TagHelpers.output.cache
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.RazorCoreGenerate.cache
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.RazorTargetAssemblyInfo.cache
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.RazorTargetAssemblyInfo.cs
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.Views.pdb
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.dll
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.pdb
+C:\Users\lexas\Desktop\C#\Week 7\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.csproj.CopyComplete
+C:\Users\lexas\Desktop\C#\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\bin\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.deps.json
+C:\Users\lexas\Desktop\C#\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\bin\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.runtimeconfig.json
+C:\Users\lexas\Desktop\C#\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\bin\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.runtimeconfig.dev.json
+C:\Users\lexas\Desktop\C#\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\bin\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.dll
+C:\Users\lexas\Desktop\C#\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\bin\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.pdb
+C:\Users\lexas\Desktop\C#\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\bin\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.Views.dll
+C:\Users\lexas\Desktop\C#\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\bin\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.Views.pdb
+C:\Users\lexas\Desktop\C#\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.csprojAssemblyReference.cache
+C:\Users\lexas\Desktop\C#\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.csproj.CoreCompileInputs.cache
+C:\Users\lexas\Desktop\C#\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.RazorAssemblyInfo.cache
+C:\Users\lexas\Desktop\C#\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.RazorAssemblyInfo.cs
+C:\Users\lexas\Desktop\C#\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.AssemblyInfoInputs.cache
+C:\Users\lexas\Desktop\C#\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.AssemblyInfo.cs
+C:\Users\lexas\Desktop\C#\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.TagHelpers.input.cache
+C:\Users\lexas\Desktop\C#\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.TagHelpers.output.cache
+C:\Users\lexas\Desktop\C#\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.RazorCoreGenerate.cache
+C:\Users\lexas\Desktop\C#\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.RazorTargetAssemblyInfo.cache
+C:\Users\lexas\Desktop\C#\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.RazorTargetAssemblyInfo.cs
+C:\Users\lexas\Desktop\C#\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.Views.pdb
+C:\Users\lexas\Desktop\C#\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.dll
+C:\Users\lexas\Desktop\C#\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.pdb
+C:\Users\lexas\Desktop\C#\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.csproj.CopyComplete
+C:\Users\lexas\Desktop\C#\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Razor\Views\Car\GetFavoritesList.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Razor\Views\Car\ListCars.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Week 8\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\bin\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.deps.json
+C:\Users\lexas\Desktop\C#\Week 8\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\bin\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.runtimeconfig.json
+C:\Users\lexas\Desktop\C#\Week 8\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\bin\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.runtimeconfig.dev.json
+C:\Users\lexas\Desktop\C#\Week 8\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\bin\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.dll
+C:\Users\lexas\Desktop\C#\Week 8\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\bin\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.pdb
+C:\Users\lexas\Desktop\C#\Week 8\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\bin\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.Views.dll
+C:\Users\lexas\Desktop\C#\Week 8\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\bin\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.Views.pdb
+C:\Users\lexas\Desktop\C#\Week 8\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.csprojAssemblyReference.cache
+C:\Users\lexas\Desktop\C#\Week 8\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.csproj.CoreCompileInputs.cache
+C:\Users\lexas\Desktop\C#\Week 8\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.RazorAssemblyInfo.cache
+C:\Users\lexas\Desktop\C#\Week 8\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.RazorAssemblyInfo.cs
+C:\Users\lexas\Desktop\C#\Week 8\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.AssemblyInfoInputs.cache
+C:\Users\lexas\Desktop\C#\Week 8\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.AssemblyInfo.cs
+C:\Users\lexas\Desktop\C#\Week 8\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.TagHelpers.input.cache
+C:\Users\lexas\Desktop\C#\Week 8\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.TagHelpers.output.cache
+C:\Users\lexas\Desktop\C#\Week 8\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.RazorCoreGenerate.cache
+C:\Users\lexas\Desktop\C#\Week 8\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Week 8\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Razor\Views\Car\GetFavoritesList.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Week 8\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Razor\Views\Car\ListCars.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Week 8\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Week 8\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Week 8\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Week 8\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Week 8\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Week 8\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Week 8\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Week 8\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Week 8\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\lexas\Desktop\C#\Week 8\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.RazorTargetAssemblyInfo.cache
+C:\Users\lexas\Desktop\C#\Week 8\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.RazorTargetAssemblyInfo.cs
+C:\Users\lexas\Desktop\C#\Week 8\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.Views.pdb
+C:\Users\lexas\Desktop\C#\Week 8\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.dll
+C:\Users\lexas\Desktop\C#\Week 8\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.pdb
+C:\Users\lexas\Desktop\C#\Week 8\Capstone5-CarDealershipMVC\Capstone5-CarDealershipMVC\obj\Debug\netcoreapp2.2\Capstone5-CarDealershipMVC.csproj.CopyComplete

@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewData["Title"] = "GetFavoritesList";
+}
+
+@model IEnumerable<FavoriteCars>
+
+<h1>Favorites List</h1>
+
+<table class="table">
+    @{ foreach (var car in Model)
+        {
+        <tr>
+            <td>@car.Make</td>
+            <td>@car.Model</td>
+            <td>@car.Year</td>
+            <td>@car.Color</td>
+            <td>@Html.ActionLink("Remove From Favorites", "RemoveFromFavorites", "Car", car)</td>
+        </tr>
+        }
+    }
+</table>

@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewData["Title"] = "ListCars";
+}
+
+@model IEnumerable<Car>
+<h1>Car List</h1>
+
+<table class="table">
+    <tr>
+        <th>Make</th>
+        <th>Model</th>
+        <th>Year</th>
+        <th>Color</th>
+    </tr>
+    @{ foreach (var car in Model)
+        {
+            <tr>
+                <td>@car.Make</td>
+                <td>@car.Model</td>
+                <td>@car.Year</td>
+                <td>@car.Color</td>
+                <td>@Html.ActionLink("Add To Favorites", "AddCarToFavorites", "Car", car)</td>
+            </tr>
+        }
+    }
+</table>
+
+<form action="/Car/FilterMake" method="post">
+    Search by Make: <input type="text" name="Make" value="Make" />
+
+    <input type="submit" name="Search" value="Search" />
+</form>
+<form action="/Car/FilterModel" method="post">
+    Search by Model: <input type="text" name="Model" value="Model" />
+
+     <input type="submit" name="Search" value="Search" />
+</form>
+<form action="/Car/FilterColor" method="post">
+    Search by color: <input type="text" name="Color" value="Color" />
+
+    <input type="submit" name="Search" value="Search" />
+</form>
+<form action="/Car/FilterYear" method="post">
+    Search by Year: <input type="number" name="Year" value="Year" />
+
+    <input type="submit" name="Search" value="Search" />
+</form>
